@@ -1,5 +1,5 @@
 # testdemo
-Authoe:
+Author:
 Lavanya G
 Cranes Varsity
 Bengaluru
